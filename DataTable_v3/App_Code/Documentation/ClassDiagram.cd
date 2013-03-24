@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="clb.Dal.DalBaseConnection">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEQAAgAABAAAAwQAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>App_Code\Dal\DalBaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clb.Dal.DalCreateUpdateDelete">
+    <Position X="5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\Dal\DalCreateUpdateDelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clb.Dal.DalRead">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>App_Code\Dal\DalRead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clb.Dal.ParametersAdd">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\Dal\ParametersAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clb.Dal.TypeOfCommand">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAABAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\Dal\TypeOfCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
